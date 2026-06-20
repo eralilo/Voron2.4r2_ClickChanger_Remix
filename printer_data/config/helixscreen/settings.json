@@ -34,6 +34,9 @@
   },
   "language": "en",
   "led": {
+    "auto_state": {
+      "enabled": null
+    },
     "selected_strips": null
   },
   "log_path": "/tmp/helixscreen.log",
@@ -118,7 +121,7 @@
             "temperature_sensor t2_MCU",
             "temperature_sensor t3_MCU"
           ],
-          "timestamp": "2026-06-17T20:09:16Z"
+          "timestamp": "2026-06-20T21:30:31Z"
         },
         "optional": []
       },
