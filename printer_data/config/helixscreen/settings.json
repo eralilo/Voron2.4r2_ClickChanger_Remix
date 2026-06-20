@@ -2,7 +2,7 @@
   "active_printer_id": "default",
   "brightness": 80,
   "completion_alert": true,
-  "config_version": 17,
+  "config_version": 18,
   "dark_mode": true,
   "display": {
     "bed_mesh_render_mode": 0,
@@ -24,6 +24,7 @@
       "d": 0.0,
       "e": 1.0,
       "f": 0.0,
+      "recheck_pending": false,
       "valid": false
     },
     "jitter_threshold": 5,
