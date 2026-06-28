@@ -43,6 +43,18 @@
   "motion": {
     "jog_mode": 1
   },
+  "print_start_history": {
+    "entries": [
+      {
+        "phases": {
+          "5": 56
+        },
+        "temp_bucket": 2,
+        "timestamp": 1782152669,
+        "total": 93
+      }
+    ]
+  },
   "printers": {
     "default": {
       "default_macros": {
@@ -121,7 +133,7 @@
             "temperature_sensor t2_MCU",
             "temperature_sensor t3_MCU"
           ],
-          "timestamp": "2026-06-22T16:54:10Z"
+          "timestamp": "2026-06-28T14:01:52Z"
         },
         "optional": []
       },
