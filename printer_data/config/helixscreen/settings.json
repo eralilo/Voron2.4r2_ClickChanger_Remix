@@ -52,6 +52,14 @@
         "temp_bucket": 2,
         "timestamp": 1782152669,
         "total": 93
+      },
+      {
+        "phases": {
+          "5": 75
+        },
+        "temp_bucket": 2,
+        "timestamp": 1782886571,
+        "total": 98
       }
     ]
   },
@@ -82,6 +90,9 @@
         "exhaust": "",
         "hotend": "heater_fan T0_HE-Fan",
         "part": "controller_fan controller_fan"
+      },
+      "filament": {
+        "auto_color_map": true
       },
       "filament_sensors": {
         "sensors": null
