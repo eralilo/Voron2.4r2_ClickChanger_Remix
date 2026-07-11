@@ -2,7 +2,7 @@
   "active_printer_id": "default",
   "brightness": 80,
   "completion_alert": true,
-  "config_version": 18,
+  "config_version": 19,
   "dark_mode": true,
   "display": {
     "bed_mesh_render_mode": 0,
@@ -10,6 +10,7 @@
     "dim_sec": 600,
     "drm_device": "",
     "gcode_render_mode": 0,
+    "gpu_3d_blocked": false,
     "sleep_sec": 1200
   },
   "gcode_viewer": {
@@ -60,6 +61,14 @@
         "temp_bucket": 2,
         "timestamp": 1782886571,
         "total": 98
+      },
+      {
+        "phases": {
+          "5": 57
+        },
+        "temp_bucket": 2,
+        "timestamp": 1783108112,
+        "total": 64
       }
     ]
   },
