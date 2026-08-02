@@ -2,7 +2,7 @@
   "active_printer_id": "default",
   "brightness": 80,
   "completion_alert": true,
-  "config_version": 20,
+  "config_version": 21,
   "dark_mode": true,
   "display": {
     "bed_mesh_render_mode": 0,
