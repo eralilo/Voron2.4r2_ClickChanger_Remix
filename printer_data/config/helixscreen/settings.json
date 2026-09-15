@@ -2,7 +2,7 @@
   "active_printer_id": "default",
   "brightness": 80,
   "completion_alert": true,
-  "config_version": 22,
+  "config_version": 23,
   "dark_mode": true,
   "display": {
     "bed_mesh_render_mode": 0,
@@ -56,22 +56,6 @@
         "temp_bucket": 1,
         "timestamp": 1786568789,
         "total": 135
-      },
-      {
-        "phases": {
-          "5": 56
-        },
-        "temp_bucket": 2,
-        "timestamp": 1782152669,
-        "total": 93
-      },
-      {
-        "phases": {
-          "5": 75
-        },
-        "temp_bucket": 2,
-        "timestamp": 1782886571,
-        "total": 98
       },
       {
         "phases": {
@@ -141,6 +125,24 @@
         "temp_bucket": 2,
         "timestamp": 1787997872,
         "total": 94,
+        "window": 1
+      },
+      {
+        "phases": {
+          "5": 108
+        },
+        "temp_bucket": 2,
+        "timestamp": 1789417347,
+        "total": 136,
+        "window": 1
+      },
+      {
+        "phases": {
+          "5": 55
+        },
+        "temp_bucket": 2,
+        "timestamp": 1789417720,
+        "total": 74,
         "window": 1
       }
     ]
