@@ -177,7 +177,7 @@
       "fans": {
         "chamber": "fan_generic nevermore",
         "exhaust": "",
-        "hotend": "heater_fan T0_HE-Fan",
+        "hotend": "heater_fan t1_HE-Fan",
         "part": "controller_fan controller_fan"
       },
       "filament": {
@@ -202,18 +202,13 @@
             "controller_fan controller_fan",
             "fan_generic cpap",
             "fan_generic nevermore",
-            "heater_fan T0_HE-Fan",
             "heater_fan t1_HE-Fan",
             "heater_fan t2_HE-Fan",
             "heater_fan t3_HE-Fan"
           ],
           "filament_sensors": [],
           "heaters": [
-            "heater_bed",
-            "extruder",
-            "extruder1",
-            "extruder2",
-            "extruder3"
+            "heater_bed"
           ],
           "leds": [
             "led caselight"
@@ -226,12 +221,11 @@
             "temperature_sensor Chamber",
             "temperature_sensor Bed_Outer",
             "temperature_sensor cartographer_coil",
-            "temperature_sensor T0_MCU",
             "temperature_sensor t1_MCU",
             "temperature_sensor t2_MCU",
             "temperature_sensor t3_MCU"
           ],
-          "timestamp": "2026-10-21T21:03:11Z"
+          "timestamp": "2026-10-21T21:47:44Z"
         },
         "optional": []
       },
