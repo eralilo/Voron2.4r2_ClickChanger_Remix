@@ -231,7 +231,7 @@
       },
       "heaters": {
         "bed": "heater_bed",
-        "hotend": "extruder"
+        "hotend": ""
       },
       "leds": {
         "auto_state": {
@@ -592,7 +592,7 @@
       "probe_sensors": {},
       "temp_sensors": {
         "bed": "heater_bed",
-        "hotend": "extruder"
+        "hotend": "None"
       },
       "type": "Voron 2.4",
       "wizard_completed": true
