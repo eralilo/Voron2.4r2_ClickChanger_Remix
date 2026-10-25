@@ -59,16 +59,6 @@
       },
       {
         "phases": {
-          "2": 60,
-          "5": 170
-        },
-        "temp_bucket": 2,
-        "timestamp": 1789714877,
-        "total": 230,
-        "window": 1
-      },
-      {
-        "phases": {
           "5": 43
         },
         "temp_bucket": 2,
@@ -151,6 +141,16 @@
         "timestamp": 1792884241,
         "total": 164,
         "window": 1
+      },
+      {
+        "phases": {
+          "2": 47,
+          "5": 113
+        },
+        "temp_bucket": 2,
+        "timestamp": 1792921069,
+        "total": 160,
+        "window": 1
       }
     ]
   },
@@ -230,7 +230,7 @@
             "temperature_sensor t1_MCU",
             "temperature_sensor t2_MCU"
           ],
-          "timestamp": "2026-10-25T09:35:02Z"
+          "timestamp": "2026-10-25T11:59:59Z"
         },
         "optional": []
       },
