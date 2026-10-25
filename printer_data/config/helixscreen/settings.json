@@ -59,24 +59,6 @@
       },
       {
         "phases": {
-          "5": 55
-        },
-        "temp_bucket": 2,
-        "timestamp": 1789417720,
-        "total": 74,
-        "window": 1
-      },
-      {
-        "phases": {
-          "5": 68
-        },
-        "temp_bucket": 2,
-        "timestamp": 1789683930,
-        "total": 69,
-        "window": 1
-      },
-      {
-        "phases": {
           "2": 60,
           "5": 170
         },
@@ -148,6 +130,26 @@
         "temp_bucket": 2,
         "timestamp": 1792842332,
         "total": 76,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 22,
+          "5": 101
+        },
+        "temp_bucket": 2,
+        "timestamp": 1792842999,
+        "total": 124,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 36,
+          "5": 127
+        },
+        "temp_bucket": 2,
+        "timestamp": 1792884241,
+        "total": 164,
         "window": 1
       }
     ]
@@ -228,7 +230,7 @@
             "temperature_sensor t1_MCU",
             "temperature_sensor t2_MCU"
           ],
-          "timestamp": "2026-10-24T11:49:45Z"
+          "timestamp": "2026-10-25T09:35:02Z"
         },
         "optional": []
       },
