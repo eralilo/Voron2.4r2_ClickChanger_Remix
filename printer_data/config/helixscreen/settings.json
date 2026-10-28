@@ -625,6 +625,19 @@
     "show_printer_switcher": false
   },
   "sounds_enabled": false,
+  "standard_macros": {
+    "bed_level": "G32",
+    "bed_mesh": "",
+    "cancel": "",
+    "clean_nozzle": "",
+    "heat_soak": "",
+    "load_filament": "",
+    "pause": "",
+    "purge": "",
+    "resume": "",
+    "screws_tilt": "",
+    "unload_filament": ""
+  },
   "telemetry_enabled": false,
   "theme": {
     "preset": 0
