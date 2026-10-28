@@ -282,6 +282,25 @@
         "startup_brightness": 25,
         "strip": "led caselight"
       },
+      "macros": {
+        "hidden": [
+          "_BEDFANVARS",
+          "_CALIBRATE_MOVE_OVER_PROBE",
+          "_CLIENT_EXTRUDE",
+          "_CLIENT_LINEAR_MOVE",
+          "_CLIENT_RETRACT",
+          "_CLIENT_VARIABLE",
+          "_HOME_X",
+          "_HOME_Y",
+          "_RESET_PRINT_SETTINGS",
+          "_RESTORE_SPDACC",
+          "_SAVE_TOOL_OFFSET",
+          "_SAVE_Z_TOOL_OFFSET",
+          "_TAP_PROBE_ACTIVATE",
+          "_TOOLHEAD_PARK_PAUSE_CANCEL",
+          "_TOOL_ALIGN_START"
+        ]
+      },
       "moonraker_api_key": false,
       "moonraker_host": "127.0.0.1",
       "moonraker_port": 7125,
