@@ -229,7 +229,7 @@
             "temperature_sensor t1_MCU",
             "temperature_sensor t2_MCU"
           ],
-          "timestamp": "2026-11-12T20:50:51Z"
+          "timestamp": "2026-11-13T22:29:04Z"
         },
         "optional": []
       },
@@ -643,10 +643,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.27511414885520935
+        "heat_rate": 0.19705697894096375
       },
       "heater_bed": {
-        "heat_rate": 2.048522710800171
+        "heat_rate": 1.9931449890136719
       }
     }
   },
