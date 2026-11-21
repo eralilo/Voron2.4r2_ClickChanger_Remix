@@ -12,7 +12,7 @@
     "gcode_render_mode": 0,
     "gpu_3d_blocked": false,
     "gpu_blur_blocked": false,
-    "screensaver_type": 2,
+    "screensaver_type": 3,
     "sleep_sec": 1200
   },
   "gcode_viewer": {
